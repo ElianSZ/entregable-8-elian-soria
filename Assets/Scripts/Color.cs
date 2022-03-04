@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Color : MonoBehaviour
+public class SphereColor : MonoBehaviour
 {
     [SerializeField]
     private GameObject sphere;
